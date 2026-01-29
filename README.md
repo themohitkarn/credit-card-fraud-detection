@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Random Forest
+# Credit Card Fraud Detection using Random Forest And XGBoost
 
 ## Dataset
 Kaggle Credit Card Fraud Dataset  
